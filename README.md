@@ -11,6 +11,7 @@
 ## The Data
 
 <br> The data used in this project consists of 8,351 dog images in total. These images are labelled with 133 different dog categories. The [dog dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip) is used for training, validation, and testing of the CNN models. Download the [dog dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip).  Unzip the folder and place it in the repo, at location `path/to/dog-project/dogImages`.
+
 <br> The [human dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/lfw.zip) includes 13,233 images of human faces. This dataset is not used for training a CNN; instead, we implement part of it to evaluate the performance of the human face detector algorithm in this project. Download the [human dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/lfw.zip).  Unzip the folder and place it in the repo, at location `path/to/dog-project/lfw`.
 
 <br> The following bar chart shows the distribution of dog images across the classes in the dog dataset:
